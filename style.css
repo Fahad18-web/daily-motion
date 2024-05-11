@@ -135,7 +135,7 @@ body {
     height: 40vh ;
 }
 
-@media only screen and (max-width: 320px){
+@media only screen and (max-width: 600px){
     .container{
         align-items: center;
     }
@@ -229,6 +229,6 @@ body {
   }
 
   .vid iframe{
-    width: 45vw;
+    width: 100%;
   }
 }
